@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tvhuo.github.io/IjN/sitemap.IjN.gz
